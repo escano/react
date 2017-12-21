@@ -1,0 +1,93 @@
+<html class="pixel-ratio-1 watch-active-state"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta http-equiv="Content-Security-Policy" content="default-src *; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data:">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Work Out</title>
+    <!-- Path to Framework7 Library CSS-->
+    <link rel="stylesheet" href="css/framework7.ios.min.css">
+    <link rel="stylesheet" href="css/framework7.ios.colors.min.css">
+    <!-- Path to your custom app styles-->
+    <link rel="stylesheet" href="css/my-app.css">
+  </head>
+  <body class="framework7-root">
+    <div class="panel-overlay"></div>
+    <div class="panel panel-left panel-reveal">
+      <div class="content-block">
+        <p>Video Tutorials</p>
+        <div class="content-block">
+          <li>
+          <a href="https://www.youtube.com/watch?v=L77b57erQ4M">tutorial1</a>
+          </li>
+          <br>
+          <li>
+          <a href="https://www.youtube.com/watch?v=y6yn8NaDZuQ">tutorial2</a>
+          </li>
+          <br>
+           <li>
+          <a href="https://www.youtube.com/watch?v=y6yn8NaDZuQ">tutorial3</a>
+          </li>
+          <br>
+          <li>
+          <a href="https://www.youtube.com/watch?v=L77b57erQ4M">tutorial4</a>
+          <br>
+          </li>
+          <br>
+        </div>
+      </div>
+    </div>
+    <div class="views">
+      <div class="view view-main" data-page="index">
+          <div class="navbar">
+            <div class="navbar-inner">
+              <div class="left">
+                <a href="#" class="open-panel"> <i class="icon icon-bars"></i></a>
+              </div>
+              <div style="text-align: center;">
+                    <h3>
+                    <font color="Navy">Workout Tutorial</font>
+                    </h3>
+              </div>
+              <div class="right">
+                <a href="#" data-cmd="home">HOME</a>
+              </div>
+            </div>
+          </div>
+        <div class="pages navbar-through toolbar-through">
+          <div data-page="index" class="page">
+            <div class="page-content">
+              <div class="page">
+                <br>
+                <br>
+                <br>
+                <form class="searchbar" action="" method="POST" id='form_search'>
+                    <div class="searchbar-input">
+                        <input type="search" placeholder="Search" id='field_search' name='field_search'>
+                        <a href="#" class="searchbar-clear"></a>
+                    </div>
+                    <a href="#" class="searchbar-cancel">Cancel</a>
+                </form>
+                <div class="content-block" id='result'>
+                  <div> 
+                    <center> <h2> <font color="#16108e"> Your Gym Partner! </font>  </h2> </center>
+                  </div>
+                  <div>
+                      <center><img class="responsive-img" src="img/start.png" style="width: 100%;"></center>
+                      <p>  Working out with consistency is important for your physical health. A consistent workout regimen reduces stress and increases your mental well being. Check out some tips for your daily workout routines in this application! </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="js/framework7.min.js"></script>
+    <script type="text/javascript" src="js/my-app.js"></script>
+    <script type="text/javascript" src="js/system.js"></script>
+    <script type="text/javascript">
+      system.search();
+    </script>
+  </body>
+</html>

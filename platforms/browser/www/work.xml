@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	 <div class = "chest">
+		<div class="item-content">
+			<div class="item-inner"> 
+				<div class="item-title">
+					<h1> 
+						<font color="black">
+							<center>CHEST</center>
+						</font>
+					</h1>
+				</div>
+			</div>
+		</div>
+		<p>
+			<h7> "The chest muscles are responsible for moving the arms across the body and up and down, as well as other movements like flexion, adduction, and rotation."</h7>
+		</p>
+		<center><font color="maroon"> <h3> Dumbbell Squeeze Press </h3> </font> </center>
+		<center><img src="img/1.png" style="width: 100%;"></center>
+		<center> <font color="maroon"> <h3> Inclined Dumbell Bench Press </h3> </font> </center>
+		<center><img src="img/2.png" style="width: 100%;"></center>
+		<center> <font color="maroon"> <h3> Weighted Push Up </h3> </font> </center>
+		<center><img src="img/3.png" style="width: 100%;"></center>
+		<center> <font color="maroon"> <h3> Close-Grip Bench Press </h3> </font> </center>
+		<center><img src="img/4.png" style="width: 100%;"></center>
+    </div>
+    <div class = "abdominal">
+		<div class="item-content"> 
+			<div class="item-inner">
+				<div class="item-title">
+					<h1>
+						<font color="black">
+							<center>ABDOMINAL</center>
+						</font>
+					</h1>
+				</div>
+			</div>
+		</div>
+		<p> "Core strength exercises strengthen your core muscles, including your abdominal muscles, back muscles and the muscles around the pelvis. Strong core muscles make it easier to do many physical activities. You can do core strength exercises on a carpeted floor or mat." </p>
+		<center> <font color="blue"> <h3> Two Point Bridge </h3> </font> </center>
+		<center><img src="img/a1.png" style="width: 100%;"></center>
+		<center> <font color="blue"> <h3> Back Extension </h3> </font> </center>
+		<center><img src="img/a2.png" style="width: 100%;"></center>
+		<center> <font color="blue"> <h3> Negative Crunch</h3> </font> </center>
+		<center><img src="img/a3.png" style="width: 100%;"></center>
+		<center> <font color="blue"> <h3> Twisting Back Extension </h3> </font> </center>
+		<center><img src="img/a4.png" style="width: 100%;"></center>
+    </div>
+    <div class = "shoulder">
+		<div class="item-content"> 
+			<div class="item-inner">
+				<div class="item-title"> 
+					<h1>
+						<font color="black">
+							<center>SHOULDER</center>
+						</font>
+					</h1>
+				</div>
+			</div>
+		</div>
+		<p>"Important small muscles that surround the shoulder joint are called the rotator cuff muscles. They are the key muscles that keep the joint functioning properly. Weakness in any of the four muscles can cause instability, which can lead to numerous injuries."</p> 
+		<center> <font color="Green"> <h3> Barbell Shoulder Press </h3> </font> </center>
+		<center><img src="img/s1.png" style="width: 100%;"></center>
+		<center> <font color="Green"> <h3> Seated Dumbbell Front Raise </h3> </font> </center>
+		<center><img src="img/s2.png" style="width: 100%;"></center>
+		<center> <font color="Green"> <h3> Bent Over Dumbbell Raise </h3> </font> </center>
+		<center><img src="img/s3.png" style="width: 100%;"></center>
+		<center> <font color="Green"> <h3> Machine Lateral Raise </h3> </font> </center>
+		<center><img src="img/s4.png" style="width: 100%;"></center>
+	</div>
+    <div class = "legs">
+		<div class="item-content"> 
+			<div class="item-inner">
+				<div class="item-title">
+					<h1>
+						<font color="black">
+							<center>LEGS</center>
+						</font>
+					</h1>
+				</div>
+			</div>
+		</div>
+		<p><h7>"The more muscle mass stressed, the greater the release of these hormones. Because the legs, along with the glutes, contain some of the largest muscles in the body, heavy-resistance leg workouts do a lot to stimulate growth hormones and testosterone, which benefit muscle growth all over the body."</h7></p>
+		<center> <font color="#66610a"> <h3> Goblet Squats </h3> </font> </center>
+		<center><img src="img/l1.png" style="width: 100%;"></center>
+		<center> <font color="#66610a"> <h3> 1/4 Squat Jumps </h3> </font> </center>
+		<center><img src="img/l2.png" style="width: 100%;"></center>
+		<center> <font color="#66610a"> <h3> Alternating Step Ups</h3> </font> </center>
+		<center><img src="img/l3.png" style="width: 100%;"></center>
+		<center> <font color="#66610a"> <h3> Mountain Climbers</h3> </font> </center>
+		<center><img src="img/l4.png" style="width: 100%;"></center>
+    </div>
+    <div class="home">
+    	<div> 
+   			<center> <h2> <font color="#16108e"> Your Gym Partner! </font>  </h2> </center>
+     	</div>
+     	<div>
+        	<center><img class="responsive-img" src="img/start.png" style="width: 100%;"></center>
+         	<p>  Working out with consistency is important for your physical health. A consistent workout regimen reduces stress and increases your mental well being. Check out some tips for your daily workout routines in this application! </p>
+     	</div>
+    </div>
+</content>
